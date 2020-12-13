@@ -5,3 +5,5 @@ The purpose of this notebook are:
 * Understanding the frequency of purchased goods in selected country
 * Understanding association among purchased goods
 * Visualizing our findings
+
+Link of data: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
